@@ -1,4 +1,5 @@
 .idea
+dependency-reduced-pom.xml
 graalvm
 graalvm.tar.gz
 maven-graalvm.iml
